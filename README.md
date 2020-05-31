@@ -14,6 +14,7 @@
 
 ## Plugins
 Plugin that allows using the SWITCH CASE statement
+
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
