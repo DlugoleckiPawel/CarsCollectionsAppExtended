@@ -1,0 +1,233 @@
+[{
+  "model": "AUDI",
+  "price": 15000,
+  "mileage": 11000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 1.6
+  },
+  "carBody": {
+    "color": "WHITE",
+    "type": "SEDAN",
+    "components": [
+      "AC",
+      "CRUISE CONTROL",
+      "GPS",
+      "ABS"
+    ]
+  },
+  "wheel": {
+    "type": "SUMMER",
+    "model": "DUNLOP",
+    "size": 14
+  }
+},
+  {
+    "model": "BMW",
+    "price": 5000,
+    "mileage": 10000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 1.8
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "HEATED SEATS",
+        "AC"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 18
+    }
+  },
+  {
+    "model": "RENAULT",
+    "price": 25000,
+    "mileage": 210000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 1.8
+    },
+    "carBody": {
+      "color": "WHITE",
+      "type": "KOMBII",
+      "components": [
+        "ABS",
+        "AC",
+        "PARKING SENSOR"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "DUNLOP",
+      "size": 12
+    }
+  },
+  {
+    "model": "BMW",
+    "price": 52000,
+    "mileage": 1090000,
+    "engine": {
+      "type": "LPG",
+      "power": 1.2
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AC",
+        "HEATED SEATS"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 14
+    }
+  },
+  {
+    "model": "TOYOTA",
+    "price": 44000,
+    "mileage": 1230000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 1.4
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AC",
+        "PARKING SENSOR"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "GOODYEAR",
+      "size": 18
+    }
+  },
+  {
+    "model": "AUDI",
+    "price": 17000,
+    "mileage": 1540000,
+    "engine": {
+      "type": "LPG",
+      "power": 1.6
+    },
+    "carBody": {
+      "color": "SILVER",
+      "type": "KOMBII",
+      "components": [
+        "ABS",
+        "AC",
+        "AUTOMATIC TRANSMISSION"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "MICHELIN",
+      "size": 16
+    }
+  },
+  {
+    "model": "BMW",
+    "price": 20000,
+    "mileage": 106000,
+    "engine": {
+      "type": "LPG",
+      "power": 1.4
+    },
+    "carBody": {
+      "color": "SILVER",
+      "type": "KOMBII",
+      "components": [
+        "ABS",
+        "AC",
+        "CRUISE CONTROL",
+        "PARKING SENSOR"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "MICHELIN",
+      "size": 12
+    }
+  },
+  {
+    "model": "SEAT",
+    "price": 5000,
+    "mileage": 130000,
+    "engine": {
+      "type": "LPG",
+      "power": 1.4
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "KOMBII",
+      "components": [
+        "ABS",
+        "PARKING SENSOR"
+      ]
+    },
+    "wheel": {
+      "type": "WINTER",
+      "model": "GOODYEAR",
+      "size": 14
+    }
+  },
+  {
+    "model": "TOYOTA",
+    "price": 120,
+    "mileage": 12000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 1.8
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AC",
+        "HEATED SEATS",
+        "AUTOMATIC TRANSMISSION"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 18
+    }
+  },
+  {
+    "model": "RENAULT",
+    "price": 100000,
+    "mileage": 1560000,
+    "engine": {
+      "type": "GASOLINE",
+      "power": 1.4
+    },
+    "carBody": {
+      "color": "SILVER",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "GPS",
+        "CRUISE CONTROL"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "DUNLOP",
+      "size": 12
+    }
+  }
+  ]
